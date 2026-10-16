@@ -10,8 +10,8 @@ I'm a Ph.D. student in Atmospheric Sciences at Nanjing University, with an inter
 <!--START_SECTION:waka-->
 
 ```txt
-Other      20 hrs 4 mins   ██████████████████████░░░   88.14 %
-Python     2 hrs 41 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.84 %
+Other      16 hrs 48 mins  ██████████████████████░░░   87.87 %
+Python     2 hrs 19 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.12 %
 Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
